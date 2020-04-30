@@ -2,7 +2,7 @@ package testexcept;
 
  class Time {
 	
-	private int h,m, n;
+	private int h,m, n, t, k;
 	
 	Time(int h,int m) //l'exception est traitée localement donc on n a pas besoin d'ajouter throws
 	{
